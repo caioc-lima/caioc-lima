@@ -6,6 +6,7 @@
  <div>
   <a href="https://github.com/caioc-lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioc-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioc-lima&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
