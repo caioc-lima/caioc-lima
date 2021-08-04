@@ -25,7 +25,7 @@
 <div> 
   <a href = "mailto:caioc.lima@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-lima-5aa0b4175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/caio-lima-5aa0b4175/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%32768?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5511972319977" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%32768?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/caioc-lima/caioc-lima/blob/output/github-contribution-grid-snake.svg)
  
