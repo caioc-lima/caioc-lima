@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/caioc-lima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioc-lima&show_icons=true&theme=dark&include_all_commits=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioc-lima&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioc-lima&show_icons=true&theme=algolia&include_all_commits=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioc-lima&layout=compact&langs_count=6&theme=algolia"/>
 </div>
  
 <div style="display: inline_block"><br>
