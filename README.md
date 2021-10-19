@@ -1,7 +1,7 @@
 ## Seja bem vindo, eu me chamo Caio Lima 👋
 
 
-- 🔭 Atualmente trabalho com desenvolvimento DOT.NET | ASP.NET | C#
+- 🔭 Atualmente trabalho com desenvolvimento C#
 
  <div>
   <a href="https://github.com/caioc-lima">
